@@ -160,7 +160,6 @@ public class Main {
         // p02.exibirInfo();
         // Pessoa p04 = new Professor("Joel", "POO--JAVA");
         // p04.exibirInfo();
-
         Aluno p03 = new Aluno("Luskafer", "POO--JAVA");
         p03.exibirInfo();
 
