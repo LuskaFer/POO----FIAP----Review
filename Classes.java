@@ -95,7 +95,7 @@ public class Lista<T> {
  -> PriorityQueue
  -> ArrayDeque
 
-
+adicionando uma linha para aparecer q commitei hj 
  */
 
 public class Classes {
